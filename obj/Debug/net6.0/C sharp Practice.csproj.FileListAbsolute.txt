@@ -1,0 +1,14 @@
+C:\Users\vamik.s\source\repos\C sharp Practice\obj\Debug\net6.0\C sharp Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vamik.s\source\repos\C sharp Practice\obj\Debug\net6.0\C sharp Practice.AssemblyInfoInputs.cache
+C:\Users\vamik.s\source\repos\C sharp Practice\obj\Debug\net6.0\C sharp Practice.AssemblyInfo.cs
+C:\Users\vamik.s\source\repos\C sharp Practice\obj\Debug\net6.0\C sharp Practice.csproj.CoreCompileInputs.cache
+C:\Users\vamik.s\source\repos\C sharp Practice\bin\Debug\net6.0\C sharp Practice.exe
+C:\Users\vamik.s\source\repos\C sharp Practice\bin\Debug\net6.0\C sharp Practice.deps.json
+C:\Users\vamik.s\source\repos\C sharp Practice\bin\Debug\net6.0\C sharp Practice.runtimeconfig.json
+C:\Users\vamik.s\source\repos\C sharp Practice\bin\Debug\net6.0\C sharp Practice.dll
+C:\Users\vamik.s\source\repos\C sharp Practice\bin\Debug\net6.0\C sharp Practice.pdb
+C:\Users\vamik.s\source\repos\C sharp Practice\obj\Debug\net6.0\C sharp Practice.dll
+C:\Users\vamik.s\source\repos\C sharp Practice\obj\Debug\net6.0\refint\C sharp Practice.dll
+C:\Users\vamik.s\source\repos\C sharp Practice\obj\Debug\net6.0\C sharp Practice.pdb
+C:\Users\vamik.s\source\repos\C sharp Practice\obj\Debug\net6.0\C sharp Practice.genruntimeconfig.cache
+C:\Users\vamik.s\source\repos\C sharp Practice\obj\Debug\net6.0\ref\C sharp Practice.dll
