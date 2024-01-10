@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vamik.s\\source\\repos\\C sharp Practice\\C sharp Practice.csproj": {}
+    "D:\\Csharp_programs\\C-Sharp-Program\\C sharp Practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vamik.s\\source\\repos\\C sharp Practice\\C sharp Practice.csproj": {
+    "D:\\Csharp_programs\\C-Sharp-Program\\C sharp Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vamik.s\\source\\repos\\C sharp Practice\\C sharp Practice.csproj",
+        "projectUniqueName": "D:\\Csharp_programs\\C-Sharp-Program\\C sharp Practice.csproj",
         "projectName": "C sharp Practice",
-        "projectPath": "C:\\Users\\vamik.s\\source\\repos\\C sharp Practice\\C sharp Practice.csproj",
+        "projectPath": "D:\\Csharp_programs\\C-Sharp-Program\\C sharp Practice.csproj",
         "packagesPath": "C:\\Users\\vamik.s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vamik.s\\source\\repos\\C sharp Practice\\obj\\",
+        "outputPath": "D:\\Csharp_programs\\C-Sharp-Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vamik.s\\AppData\\Roaming\\NuGet\\NuGet.Config",

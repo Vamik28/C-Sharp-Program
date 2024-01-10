@@ -12,3 +12,18 @@ C:\Users\vamik.s\source\repos\C sharp Practice\obj\Debug\net6.0\refint\C sharp P
 C:\Users\vamik.s\source\repos\C sharp Practice\obj\Debug\net6.0\C sharp Practice.pdb
 C:\Users\vamik.s\source\repos\C sharp Practice\obj\Debug\net6.0\C sharp Practice.genruntimeconfig.cache
 C:\Users\vamik.s\source\repos\C sharp Practice\obj\Debug\net6.0\ref\C sharp Practice.dll
+d:\Csharp_programs\C-Sharp-Program\bin\Debug\net6.0\C sharp Practice.exe
+d:\Csharp_programs\C-Sharp-Program\bin\Debug\net6.0\C sharp Practice.deps.json
+d:\Csharp_programs\C-Sharp-Program\bin\Debug\net6.0\C sharp Practice.runtimeconfig.json
+d:\Csharp_programs\C-Sharp-Program\bin\Debug\net6.0\C sharp Practice.dll
+d:\Csharp_programs\C-Sharp-Program\bin\Debug\net6.0\C sharp Practice.pdb
+d:\Csharp_programs\C-Sharp-Program\obj\Debug\net6.0\C sharp Practice.GeneratedMSBuildEditorConfig.editorconfig
+d:\Csharp_programs\C-Sharp-Program\obj\Debug\net6.0\C sharp Practice.AssemblyInfoInputs.cache
+d:\Csharp_programs\C-Sharp-Program\obj\Debug\net6.0\C sharp Practice.AssemblyInfo.cs
+d:\Csharp_programs\C-Sharp-Program\obj\Debug\net6.0\C sharp Practice.csproj.CoreCompileInputs.cache
+d:\Csharp_programs\C-Sharp-Program\obj\Debug\net6.0\C sharp Practice.sourcelink.json
+d:\Csharp_programs\C-Sharp-Program\obj\Debug\net6.0\C sharp Practice.dll
+d:\Csharp_programs\C-Sharp-Program\obj\Debug\net6.0\refint\C sharp Practice.dll
+d:\Csharp_programs\C-Sharp-Program\obj\Debug\net6.0\C sharp Practice.pdb
+d:\Csharp_programs\C-Sharp-Program\obj\Debug\net6.0\C sharp Practice.genruntimeconfig.cache
+d:\Csharp_programs\C-Sharp-Program\obj\Debug\net6.0\ref\C sharp Practice.dll
