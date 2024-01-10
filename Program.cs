@@ -1,6 +1,40 @@
 ﻿using System;
+using System.Dynamic;
+using System.Formats.Asn1;
+using System.Security.Cryptography;
 namespace Vamik
 {
+
+
+   abstract class Shape{
+       abstract public void Area();
+       abstract public void Perimeter();
+    }
+    class Rectangle : Shape{
+        double length,breadth,area,perimeter;
+        public Rectangle(double length,double breadth){
+            this.length = length;
+            this.breadth = breadth;
+        }
+        public double Length{
+            get{return length;}
+            set{length = value;}
+        }
+        public double Breadth{
+            get{return breadth;}
+            set{breadth = value;}
+        }
+        
+        public override void Area(){
+             area = length*breadth;
+             Console.WriteLine("Area = " + area);
+        }
+        public override void Perimeter(){
+             perimeter =  2*(length+breadth);
+             Console.WriteLine("Perimeter = "+ perimeter);
+             
+        }
+    }
     class Human
     {
         //data types by default private;
@@ -53,7 +87,9 @@ namespace Vamik
            h1.Age = 21;
            h1.Gender = "Male";
            h1.printInfo();
-
+           Rectangle r1 = new Rectangle(30.2,60.5);
+            r1.Area();
+            r1.Perimeter();
 
         }
     }
