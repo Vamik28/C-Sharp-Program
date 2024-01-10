@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 namespace Vamik
 {
 
-
+  
    abstract class Shape{
        abstract public void Area();
        abstract public void Perimeter();
@@ -33,6 +33,27 @@ namespace Vamik
              perimeter =  2*(length+breadth);
              Console.WriteLine("Perimeter = "+ perimeter);
              
+        }
+    }
+    class vehicle{
+
+        public vehicle(){
+            Console.WriteLine("I am in Vehicle Constructor");
+        }
+        public void sound(){
+              Console.WriteLine("I am in vehicle Class");
+        }
+    }
+    class Car : vehicle{
+        string name ;
+        public Car(string name){
+            Console.WriteLine("I am in Car parameterized Contructor");
+        }
+        public Car(){
+            Console.WriteLine("I am in Car Contructor");
+        }
+        public void sound(){
+            Console.WriteLine("I am in a Car Class");
         }
     }
     class Human
@@ -90,6 +111,10 @@ namespace Vamik
            Rectangle r1 = new Rectangle(30.2,60.5);
             r1.Area();
             r1.Perimeter();
+            vehicle v1  = new vehicle();
+            v1.sound();
+            Car c1 = new Car("i20");
+            
 
         }
     }
